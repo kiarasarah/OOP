@@ -1,2 +1,2 @@
 # OOP
-The assigment.py contains my initials and the solutions to the programming exercise 1.10
+The assigment.py contains my credentials and the solutions to the programming exercise 1.10
